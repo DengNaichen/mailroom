@@ -1,0 +1,12 @@
+/bin/
+/data/
+credentials.json
+.env
+*.db
+*.db-shm
+*.db-wal
+google-token.json
+mcp-token
+.DS_Store
+.env.*
+!.env.example
